@@ -1,5 +1,5 @@
 # K-means++
-visualization for [k-means++](https://en.wikipedia.org/wiki/K-means%2B%2B)
+visualization for [k-means++](https://en.wikipedia.org/wiki/K-means%2B%2B) initial coordinate selection
 
 > Note : Next cluster is chosen proportional to D(x)^2
 
