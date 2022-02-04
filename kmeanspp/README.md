@@ -1,4 +1,7 @@
 # K-means++
+
+- Video on youtube [here](https://www.youtube.com/watch?v=efKGmOH4Y_A)
+
 visualization for [k-means++](https://en.wikipedia.org/wiki/K-means%2B%2B) initial coordinate selection
 
 > Note : Next cluster is chosen proportional to D(x)^2
